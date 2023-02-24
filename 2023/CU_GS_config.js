@@ -24,7 +24,7 @@ var config_data = `
     { "name": "Match Level",
       "code": "l",
       "gsCol": "level",
-      "type": "level",
+      "type": "qm",
       "choices": {
         "qm": "Quals<br>",
         "de": "Double Elimination<br>",
@@ -33,7 +33,7 @@ var config_data = `
       "defaultValue": "qm",
       "required": "true"
     },
-    { "name": "Match #",
+    { "name": "Match #2",
       "code": "m",
       "gsCol": "matchNum",
       "type": "match",

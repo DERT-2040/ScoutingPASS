@@ -20,7 +20,7 @@ var config_data = `
     },
     { "name": "Match Level",
       "code": "l",
-      "type": "Quals<br>",
+      "type": "qm",
       "choices": {
         "qm": "Quals<br>",
         "de": "Double Elimination<br>",
@@ -29,7 +29,7 @@ var config_data = `
       "defaultValue": "qm",
       "required": "true"
     },
-    { "name": "Match #2",
+    { "name": "Match #",
       "code": "m",
       "type": "match",
       "min": 1,

@@ -4,7 +4,7 @@ var config_data = `
   "page_title": "Charged Up",
   "pitConfig": "true",
   "prematch": [
-    { "name": "2040",
+    { "name": "Team Number",
       "code": "t",
       "type": "number"
     },
@@ -91,5 +91,3 @@ var config_data = `
   "postmatch": [
   ]
 }`;
-
-//need to know about the dimensions and the mass of the robot, soooo this needs changing 

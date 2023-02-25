@@ -24,7 +24,7 @@ var config_data = `
     { "name": "Match Level",
       "code": "l",
       "gsCol": "level",
-      "type": "type",
+      "type": "level",
       "choices": {
         "qm": "Quals<br>",
         "de": "Double Elimination<br>",

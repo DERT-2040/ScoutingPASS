@@ -11,7 +11,7 @@ var config_data = `
       "maxSize": 5,
       "required": "true"
     },
-    { "name": "Iowa Competition",
+    { "name": "Event",
       "code": "e",
       "type": "event",
       "defaultValue": "2022carv",
@@ -20,7 +20,7 @@ var config_data = `
     },
     { "name": "Match Level",
       "code": "l",
-      "type": "type",
+      "type": "level",
       "choices": {
         "qm": "Quals<br>",
         "de": "Double Elimination<br>",

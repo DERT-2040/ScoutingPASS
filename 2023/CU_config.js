@@ -20,7 +20,7 @@ var config_data = `
     },
     { "name": "Match Level",
       "code": "l",
-      "type": "qm",
+      "type": "type",
       "choices": {
         "qm": "Quals<br>",
         "de": "Double Elimination<br>",

@@ -17,8 +17,8 @@ var config_data = `
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "size": 10,
-      "maxSize": 10,
+      "defaultValue": "CIR2023",
+      "required": "true",
       "disabled": "true"
     },
     { "name": "Match Level",

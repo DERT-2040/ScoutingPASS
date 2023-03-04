@@ -17,7 +17,7 @@ var config_data = `
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "defaultValue": "2023cir",
+      "defaultValue": "2022cir",
       "required": "true",
       "disabled": "true"
     },

@@ -17,7 +17,7 @@ var config_data = `
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "defaultValue": "2023ilpe",
+      "defaultValue": "2023orore",
       "required": "true",
       "disabled": "true"
     },
